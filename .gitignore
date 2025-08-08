@@ -3,7 +3,9 @@ Debug/
 *.clangd
 *.clang-format
 *.project
-
+version4.txt
+version4.project
+people.txt
 
 
 
