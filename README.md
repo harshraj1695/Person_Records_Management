@@ -170,12 +170,6 @@ Deletes a person record from both the linked list and the file.
 
 ---
 
-## 📘 License
-
-MIT License (if applicable)
-
----
-
 ## 👨‍💻 Author
 
 **Harsh Raj** – [GitHub Profile](https://github.com/harshraj1695)
