@@ -2,6 +2,8 @@
 Debug/
 *.clangd
 *.clang-format
+*.project
+
 
 
 
