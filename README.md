@@ -150,20 +150,7 @@ Deletes a person record from both the linked list and the file.
 
 ---
 
-## 🧪 Example Usage Flow
 
-```c
-Node* head = load_list("people.txt");
-
-Person p = {2, "Alice Smith", 28, 55000, "alice@example.com"};
-head = add_person("people.txt", p, head);
-
-Person* found = search(head, 2);
-
-head = deletedata(head, "people.txt", 2);
-```
-
----
 
 ## 📂 File Example: `people.txt`
 
